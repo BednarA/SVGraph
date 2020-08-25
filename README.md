@@ -1,2 +1,2 @@
 # SVGraph
-Javascript graph generator with SVG output
+PHP graph generator with SVG output
